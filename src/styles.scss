@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Arial, Helvetica, sans-serif, Roboto;
+    background-color: #151515;
+    padding-top: 60px;
+    height: 100%;
+
+}
+
+body * {
+    font-family: Roboto;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
